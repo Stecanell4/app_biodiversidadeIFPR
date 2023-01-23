@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "147379535055",
+    "project_id": "bd-bio-cd803",
+    "storage_bucket": "bd-bio-cd803.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147379535055:android:d3ae886c053b7d39d3cbba",
+        "android_client_info": {
+          "package_name": "com.example.bio_if"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147379535055-fja32q6ap845hk1jchnf5fd58agobnsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Li4VeAxzDDwXsGaMYFaiNVAZwSxIxN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147379535055-fja32q6ap845hk1jchnf5fd58agobnsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version":"1"
+}
